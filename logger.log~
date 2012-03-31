@@ -1,0 +1,9 @@
+TRUNCATE intensidad_mm_h
+TRUNCATE periodosRetorno
+TRUNCATE calculoParametros
+TRUNCATE intensidadPrecipitacionTr
+Sun Mar 18 21:05:43 MST 2012 : TRUNCATE intensidad_mm_h
+Sun Mar 18 21:05:43 MST 2012 : TRUNCATE periodosRetorno
+Sun Mar 18 21:05:43 MST 2012 : TRUNCATE calculoParametros
+Sun Mar 18 21:05:43 MST 2012 : TRUNCATE intensidadPrecipitacionTr
+Sun Mar 18 21:05:45 MST 2012 : TRUNCATE periodosRetorno
